@@ -1,3 +1,3 @@
 v1.0.5 | https://github.com/balabolkotakbas6767/metal-blood-updatecheck/releases/latest/download/Metal.Blood.exe
-v1.0.4 | https://github.com/balabolkotakbas6767/metal-blood-updatecheck/releases/download/1.0.4/Metal.Blood.exe
+v1.0.4 | https://github.com/balabolkotakbas6767/metal-blood-updatecheck/releases/download/v1.0.4/Metal.Blood.exe
 
